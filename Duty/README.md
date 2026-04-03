@@ -21,7 +21,7 @@
   - Cambridge Analytica형 (은밀한 착취)
   - Care.Data형 (소통 부재)
   - Jigsaw Perspective형 (알고리즘 편향)
-- 이 앱에 Lived Experience Advisory Team을 도입한다면 누구를 참여시켜야 하는가?
+- 이 앱에 스튜어드십을 도입한다면 누구를 참여시켜야 하는가?
 
 ## 3. 4대 원칙 채점 (Part C 대응)
 | 원칙 | O/X | 근거 | 개선안 |
